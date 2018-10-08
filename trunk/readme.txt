@@ -61,6 +61,6 @@ No special notice.
 
 == Other resources ==
 
-* Icon Image: Map of Nepal uploaded in [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/7/76/Nepal_zones.svg).
-* Please visit [wikipedia articles](https://en.wikipedia.org/wiki/List_of_zones_of_Nepal) for details.
-* Photo by [Nirdesh Magar on Unsplash](https://unsplash.com/photos/Wd-bC5nM7pQ).
+* Please visit [wikipedia articles](https://en.wikipedia.org/wiki/List_of_zones_of_Nepal) for administrative location details.
+* Icon Image: Map of Nepal as uploaded in [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/7/76/Nepal_zones.svg).
+* Banner photo: by [Nirdesh Magar on Unsplash](https://unsplash.com/photos/Wd-bC5nM7pQ).
