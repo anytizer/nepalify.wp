@@ -30,11 +30,14 @@ It will create WordPress categories based on Zones and Districts of Nepal.
 = What will happen if I deactivate or delete this plugin?
 If you activated it once, the categories are created permanently. When you delete or deactivate, the categories created once will stay there.
 
+= I already have some names in my categories. What will happen if I reactivate the plugin?
+To add a new category is left to WordPress default feature. It will not re-create new category if it exists.
+
 = What is the source of Administrative Districts?
-[Wikipedia articles](https://en.wikipedia.org/wiki/List_of_zones_of_Nepal)
+Taken from [List of Zones of Nepal](https://en.wikipedia.org/wiki/List_of_zones_of_Nepal) in Wikipedia.
 
 = What is the Development URL?
-Please contribute in [GitHub Project](https://goo.gl/rSCwN1)
+Welcome to contribute in [GitHub Project](https://goo.gl/rSCwN1).
 
 
 == Screenshots ==
@@ -46,7 +49,8 @@ Please contribute in [GitHub Project](https://goo.gl/rSCwN1)
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Icons and Banner images added.
+* Initial release.
 
 
 == Upgrade Notice ==
@@ -57,5 +61,6 @@ No special notice.
 
 == Other resources ==
 
-Icon Image: Map of Nepal uploaded in [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/7/76/Nepal_zones.svg).
-Please visit [wikipedia articles](https://en.wikipedia.org/wiki/List_of_zones_of_Nepal) for details.
+* Icon Image: Map of Nepal uploaded in [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/7/76/Nepal_zones.svg).
+* Please visit [wikipedia articles](https://en.wikipedia.org/wiki/List_of_zones_of_Nepal) for details.
+* Photo by [Nirdesh Magar on Unsplash](https://unsplash.com/photos/Wd-bC5nM7pQ).
