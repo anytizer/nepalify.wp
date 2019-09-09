@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Nepalify | Provinces and Districts
- * Plugin URI: #
+ * Plugin URI: https://wordpress.org/plugins/nepalify/
  * Description: Creates zones and districts of Nepal as WordPress categories when you just <strong>activate this plugin</strong>. | <a href="https://en.wikipedia.org/wiki/List_of_zones_of_Nepal">List of zones of Nepal</a> | <a href="https://en.wikipedia.org/wiki/Provinces_of_Nepal">Provinces of Nepal</a>
  * Author: Bimal Poudel
  * Version: 2.0.0
