@@ -1,7 +1,7 @@
 # nepalify.wp
 A WordPress plguin.
 
-Creates zones and districts of Nepal as WordPress categories when you just activate this plugin.
+Creates provinces, zones and districts of Nepal as WordPress categories when you just activate this plugin.
 
 ## Purpose
 
