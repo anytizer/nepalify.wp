@@ -3,9 +3,9 @@ Contributors: pbimal
 Donate link: http://bimal.org.np/
 Tags: nepal, nepalify, zones, districts, pbimal
 Requires at least: 4.9.8
-Tested up to: 4.9.8
-Stable tag: 4.9.8
-Requires PHP: 5.2.7
+Tested up to: 5.2.2
+Stable tag: 2.0.0
+Requires PHP: 7.3.5
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
