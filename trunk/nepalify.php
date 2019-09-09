@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: Nepalify | Districts
+ * Plugin Name: Nepalify | Provinces and Districts
  * Plugin URI: #
- * Description: Creates zones and districts of Nepal as WordPress categories when you just <strong>activate this plugin</strong>. | <a href="https://en.wikipedia.org/wiki/List_of_zones_of_Nepal">List of zones of Nepal</a>.
+ * Description: Creates zones and districts of Nepal as WordPress categories when you just <strong>activate this plugin</strong>. | <a href="https://en.wikipedia.org/wiki/List_of_zones_of_Nepal">List of zones of Nepal</a> | <a href="https://en.wikipedia.org/wiki/Provinces_of_Nepal">Provinces of Nepal</a>
  * Author: Bimal Poudel
- * Version: 1.0.0
+ * Version: 2.0.0
  * Author URI: http://bimal.org.np/
  */
 
@@ -133,8 +133,8 @@ class nepalify
                 "Dadeldhura",
                 "Darchula",
                 "Kanchanpur",
-            ),
-        );
+            ],
+        ];
 
         foreach ($zones as $zone => $districts) {
             $zone_category_id = wp_create_category($zone, 0);
